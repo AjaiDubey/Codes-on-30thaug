@@ -6,7 +6,7 @@ int main()
 {
     int t;
     cin>>t;
-    char str[1000];
+    char str[10000];
     stack <char> s;
     while (t--) 
     {
